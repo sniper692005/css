@@ -1,0 +1,21 @@
+{
+    margin: 1%;
+    padding:1px;
+    border: 100px;
+
+
+}
+body{
+    background-color: yellow;
+    font-family:'Times New Roman', Times, serif;
+    background-image:url("https://cdn.mos.cms.futurecdn.net/k6okX2VVUg4qWoyxuNLsf7-970-80.jpg.webp");
+    
+    background-size: 50%;
+ 
+    background-repeat:repeat-y;
+
+}
+h1{
+    font-size: 50px;
+   color: rgb(6, 12, 5);
+}

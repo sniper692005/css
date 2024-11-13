@@ -1,0 +1,21 @@
+ body{
+    border: 5px rgb(5, 201, 250) solid;
+    padding: 10px;
+    }
+
+ h1{
+    text-align: center;
+    text-decoration: overline;
+    text-transform: lowercase;
+    
+ }
+ h2{
+    text-align: left;
+    text-decoration: underline;
+    text-transform: uppercase;
+ }
+ h3{
+    text-align: right;
+    text-decoration: line-through;
+    text-transform:capitalize;
+ }

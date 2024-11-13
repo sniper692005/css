@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 2%;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+div{
+    width: 80%;
+}
+#d1{
+    outline-style: outset;
+}
+#d2{
+    outline-style: inset;
+}
+#d3{
+    outline-style: none;
+}
+#d4{
+    outline-style: ridge;
+}
+#d5{
+    outline-style: dashed;
+}
+#d6{
+    outline-style: double;
+}
+#d7{
+    outline-style: solid;
+}
+#d8{
+    outline-style: groove;
+}
+#d9{
+    outline-style: dotted;
+}
+#d10{
+    outline-style: hidden;
+}
